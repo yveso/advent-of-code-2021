@@ -12,7 +12,6 @@ answer_part_one = sum(
 answer_part_one
 
 #%%
-
 last_index_with_two_followers = -(len(depths) % 3)
 
 sliding_sums = [
